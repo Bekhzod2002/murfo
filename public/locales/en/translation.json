@@ -1,0 +1,72 @@
+{ 
+
+    "About":{
+        "1":"About Us,",
+        "2": "Creative Design",
+        "3":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur at aut odit aut fugit sed quia consequuntur magni.",
+        "4":"Strategy Solutions",
+        "5": "Dynamic Growth",
+        "6": "Performancect Solution For Small Businesses",
+        "7": "Temporibus autem quibusdam a aut officiis debitis rerum necessitatibus saepeeveniet ut et voluptates repudiandae sint a molestiae recusandae itaque earum rerum hic tenetur a sapiente delectus ut at aut reiciendis voluptatibus maiores alias consequatur perferendis doloribus asperiores rerum necessitat saepeeveniet.",
+        "8":"Learn More",
+        "9": "Privacy Policy",
+        "10": "Terms of use",
+        "11":"Forum"
+      },
+
+      "blogs":{
+        "0":"Everyone can learn something new! Even if it's scary.",
+          "1":"THE BLOG",
+          "2":"01 Jan 2019",
+          "3":"UI/UX DESIGNER",
+          "4":"Quis autem reprehenderit",
+          "5":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis deleniti corrupti.",
+          "6":"Read more"
+        },
+        "contact":{
+            "1":"GET IN TOUCH",
+            "2":"Error Message",
+            "3":"SEND MESSAGE",
+            "4":"Follow" 
+        },
+      "features":{
+        "1": "OUR FEATURES",
+         "2": "Marketing Performance",
+         "3": "Itaque earum rerum hic tenetur sapiente delectut reiciendis voluptatibus perspiciatis unde omnis iste natus error sit maiores alias consequatur perferendisthat doloribus asperiores repellat.",
+         "4": "Nam libero tempore cum soluta nobis eligendi optio cumque nihil impedit minusidquod maxime placeat facere possimus.",
+         "5": "LEARN MORE"
+      },
+    "footer":{
+        "1":"ABOUT US",
+        "2":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem that is doloremque totam that laudantiume.",
+        "3":"Monitoring Grader",
+        "4":"Job Opening",
+        "5":"Customers",
+        "6":"Privacy"     
+    },
+    "header":{
+        "1":"HOME",
+         "2": "ABOUT",
+         "3":"SERVICES",
+         "4":"FEATURES",
+         "5": "PRICING",
+         "6": "BLOG",
+         "7": "CONTACT US"
+        },
+        "home":{
+            "1": "Make Your Marketing Real.",
+             "2": "Ut enim ad minima veniam quis nostrum exercitationem ullam corporis at suscipit laboriosam nisi ut aliquid a commodi consequatur Quis autem.",
+             "3": "LEARN MORE"
+        },
+        "pricing":{
+            "1": "OUR PRICING",
+             "2": "Basic",
+             "3": "Bandwidth: 1.5GB",
+             "4": "BUY NOW"
+        },
+
+        "services":{
+            "1":"OUR SERVICES",
+            "2":"LEARN MORE"
+        }
+    }

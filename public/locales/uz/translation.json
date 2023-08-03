@@ -1,0 +1,71 @@
+{ 
+
+    "About":{
+        "1":"Biz haqimizda,",
+        "2": "Kreativ dizayn",
+        "3":"Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+        "4":"Strategiya yechimlari",
+        "5": "Dinamik O'sish",
+        "6": "Kichik Biznes Uchun Ishlash Yechimi",
+        "7": "Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+        "8":"Batafsil",
+        "9": "Maxfiylik Siyosati",
+        "10": "Foydalanish shartlari",
+        "11":"Forum"
+      },
+
+      "blogs":{
+          "1":"BLOG",
+          "2":"01 Yan 2019",
+          "3":"UI/UX DIZAYNER",
+          "4":"Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+          "5":"Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+          "6":"Batafsil"
+        },
+        "contact":{
+            "1":"ALOQA UCHUN",
+            "2":"Xato xabar",
+            "3":"YUBORISH",
+            "4":"OBUNA" 
+        },
+      "features":{
+        "1": "BIZNING XUSUSIYATLARIMIZ",
+         "2": "Marketing Ishlashi",
+         "3": "Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+         "4": "Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+         "5": "Batafsil"
+      },
+    "footer":{
+        "1":"BIZ HAQIMIZDA",
+        "2":"Tarjima qilishni iloji bo'lmagan lotincha so'zlar...",
+        "3":"Monitoring Greyder",
+        "4":"Ishni Ochish",
+        "5":"Mijozlar",
+        "6":"Maxfiylik"     
+    },
+    "header":{
+        "1":"BOSH SAHIFA",
+         "2": "BIZ HAQIMIZDA",
+         "3":"XIZMATLAR",
+         "4":"XUSUSIYATLAR",
+         "5": "SOTUV",
+         "6": "BLOG",
+         "7": "ALOQA"
+        },
+        "home":{
+            "1": "Marketingingizni Haqiqiy Qiling.",
+            "2": "Tarjima qilishni iloji bo'lmagan lotincha so'zlar",
+             "3": "BATAFSIL"
+        },
+        "pricing":{
+            "1": "BIZNING NARXLAR",
+             "2": "ASOSIY",
+             "3": "TARMOQ KENGLIGI: 1.5GB",
+             "4": "SOTIB OLISH"
+        },
+
+        "services":{
+            "1":"BIZNING XIZMATLAR",
+            "2":"BATAFSIL"
+        }
+    }
